@@ -1,6 +1,6 @@
 # Tugas UAS Pemrograman Mobile 2
 
-### | Stephen Pratama Kurnia | TI.22.A5 | 312210635 |
+### | Serius Ndruru | TI.22.A5 | 312210508 |
 
 Preview :
 
