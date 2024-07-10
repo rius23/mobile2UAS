@@ -1,6 +1,16 @@
 # Tugas UAS Pemrograman Mobile 2
 
-### | Serius Ndruru | TI.22.A5 | 312210508 |
+
+
+### Anggota Kelompok
+
+| Nama                      | NIM       | Kelas     | Mata Kuliah        |
+| ------------------------- | --------- | --------- | ------------------ |
+| Muhammad Arley Alfaridzi  | 312210631 | TI.22.A5  | Pemrograman Mobile |
+| Serius Ndruru             | 312210508 | TI.22.A5  | Pemrograman Mobile |
+| Unggul Prima Dhani        | 312210477 | TI.22.A5  | Pemrograman Mobile |
+| Nicky Pascal Tambunan     | 312210474 | TI.22.A5  | Pemrograman Mobile |
+| Fazlurrahman Busa Duru    | 312210522 | TI.22.A5  | Pemrograman Mobile |
 
 Preview :
 
