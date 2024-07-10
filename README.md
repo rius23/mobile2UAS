@@ -16,17 +16,24 @@ Preview :
 
 
 
-https://github.com/steprtm/mobile2uas/assets/129705802/7d0d1d8b-2dd1-4f5e-b5fc-636954dff5d5
+
+
+https://github.com/rius23/mobile2UAS/assets/129859832/9fd6e2de-8e15-4ad2-bb94-7261d2adc86e
+
+
 
 
 
 ## Postman
 ### POST
-![Postman_GRQy2UWHfI](https://github.com/steprtm/mobile2uas/assets/129705802/7dd67201-cf2a-4338-9a2d-b4e2c77f62c9)
+![mobile1](https://github.com/rius23/mobile2UAS/assets/129859832/5ee047a5-1a4f-447f-9035-58ee25dec349)
+
 ### GET
-![Postman_to0uZLqnG9](https://github.com/steprtm/mobile2uas/assets/129705802/81e67d2c-38db-4e04-bb94-432cc02d7360)
+![mobile2](https://github.com/rius23/mobile2UAS/assets/129859832/334bf236-bfbd-438a-82db-5c439eac216b)
+
 ### PUT
-![Postman_iCfSGuIKb1](https://github.com/steprtm/mobile2uas/assets/129705802/13aa60b3-12a1-4e98-8b61-a70a1a83ad6b)
+![mobile3](https://github.com/rius23/mobile2UAS/assets/129859832/8173f2ef-8b52-46ad-b642-515366d8548e)
+
 
 
 
